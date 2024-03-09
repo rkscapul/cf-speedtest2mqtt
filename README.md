@@ -1,2 +1,2 @@
-# cf-speedtest2mqtt
-Speedtest2MQTT - Using Cloudflare Speedtest.
+# CF-Speedtest2MQTT
+Speedtest2MQTT - Perform network speed tests using Cloudflare Speedtest and transmit results via MQTT.
